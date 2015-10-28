@@ -2,6 +2,8 @@ node_modules
 /src/lib
 *.db
 data
+.project
+.settings
 .idea
 releases/
 cache/
